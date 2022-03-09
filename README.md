@@ -1,4 +1,4 @@
-[![Banner mahaamesha](assets/banner-github.gif)]()
+[![Banner mahaamesha](assets/banner-github.gif)](https://github.com/mahaamesha)
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=6e5494)](https://www.linkedin.com/in/avima-haamesha)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/avima-haamesha)
@@ -19,26 +19,30 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <br>
 
 
-
 ## 💼 **Skills**
 
 **Language**:<br>
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=4AB197) 
 
 **Modules**: <br>
-![](https://img.shields.io/badge/Module-Arduino-informational?style=for-the-badge&logo=arduino&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Module-Raspberry_Pi-informational?style=for-the-badge&logo=raspberrypi&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Module-Arduino-informational?style=for-the-badge&logo=arduino&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Module-Raspberry_Pi-informational?style=for-the-badge&logo=raspberrypi&logoColor=white&color=4AB197) 
 
 **Tools**: <br>
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=4AB197) 
 
-![](https://img.shields.io/badge/Tools-Proteus-informational?style=for-the-badge&logo=proteus&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-EAGLE-informational?style=for-the-badge&logo=eagle&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Keil_uVision-informational?style=for-the-badge&logo=uvision&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Proteus-informational?style=for-the-badge&logo=proteus&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Tools-EAGLE-informational?style=for-the-badge&logo=eagle&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Tools-Keil_uVision-informational?style=for-the-badge&logo=uvision&logoColor=white&color=4AB197) 
+
+**Others**: <br>
+![](https://img.shields.io/badge/MQTT-informational?style=for-the-badge&logo=mqtt&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Mosquitto-informational?style=for-the-badge&logo=paho&logoColor=white&color=4AB197) 
+![](https://img.shields.io/badge/Nodered-informational?style=for-the-badge&logo=nodered&logoColor=white&color=4AB197) 
 
 <br>
 
