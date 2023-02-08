@@ -7,9 +7,10 @@
 <br>
 
 ## Hi there, I’m **Avima** 👋
-Instrumentataion Physics Student at Bandung Institute of Technology
+Instrumentataion & Computational Physics Student at Bandung Institute of Technology
 
 Passion: 
+- Image processing & computer vision
 - Embedded system
 - Firmware development
 
@@ -69,15 +70,16 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 ## 📌 **Pinned Repositories**
 
-<a href="https://github.com/mahaamesha/kuroliProject">
-  <img align="center" style="margin:0.5rem" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=kuroliProject&theme=radical" />
-</a>
-
 <a href="https://github.com/mahaamesha/_RBL-FoodServingRobot">
   <img align="center" style="margin:0.5rem" 
     src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=_RBL-FoodServingRobot&theme=radical" />
 </a>
+
+<a href="https://github.com/mahaamesha/fish-length-opencv">
+  <img align="center" style="margin:0.5rem" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=fish-length-opencv&theme=radical" />
+</a>
+
 
 <br>
 <br>
