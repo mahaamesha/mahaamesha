@@ -89,7 +89,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 <a href="https://github.com/mahaamesha">
   <img align="center" style="margin:0.5rem" alt="mahaamesha's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    src="https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 
   <img align="center" style="margin:0.5rem" alt="mahaamesha's Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mahaamesha&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical&hide=html,css,jupyter%20notebook"/>
