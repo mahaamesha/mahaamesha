@@ -7,7 +7,7 @@
 <br>
 
 ## Hi there, I’m **Avima** 👋
-Instrumentataion & Computational Physics Student at Bandung Institute of Technology
+Bachelor of Physics in Instrumentation and Computational Physics at Bandung Institute of Technology with a passion for developing computer vision systems and instrumentation physics systems.
 
 Passion: 
 - Image processing & computer vision
