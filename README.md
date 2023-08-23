@@ -7,14 +7,13 @@
 <br>
 
 ## Hi there, I’m **Avima** 👋
-Bachelor of Physics in Instrumentation and Computational Physics at Bandung Institute of Technology with a passion for developing computer vision systems and instrumentation physics systems.
+Instrumentataion Physics Student at Bandung Institute of Technology
 
 Passion: 
-- Image processing & computer vision
 - Embedded system
 - Firmware development
 
-Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedin.com/in/avima-haamesha)
+Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/avima-haamesha)
 
 <br>
 <br>
@@ -70,27 +69,15 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 
 ## 📌 **Pinned Repositories**
 
-
-<a href="https://github.com/mahaamesha/kinematics-analysis-using-digital-image-processing">
+<a href="https://github.com/mahaamesha/kuroliProject">
   <img align="center" style="margin:0.5rem" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=kinematics-analysis-using-digital-image-processing&theme=radical" />
-</a>
-
-<a href="https://github.com/mahaamesha/image-super-resolution">
-  <img align="center" style="margin:0.5rem" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=image-super-resolution&theme=radical" />
-</a>
-
-<a href="https://github.com/mahaamesha/fish-length-opencv">
-  <img align="center" style="margin:0.5rem" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=fish-length-opencv&theme=radical" />
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=kuroliProject&theme=dark" />
 </a>
 
 <a href="https://github.com/mahaamesha/_RBL-FoodServingRobot">
   <img align="center" style="margin:0.5rem" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=_RBL-FoodServingRobot&theme=radical" />
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=_RBL-FoodServingRobot&theme=dark" />
 </a>
-
 
 <br>
 <br>
@@ -100,10 +87,10 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 
 <a href="https://github.com/mahaamesha">
   <img align="center" style="margin:0.5rem" alt="mahaamesha's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+    src="https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
   <img align="center" style="margin:0.5rem" alt="mahaamesha's Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mahaamesha&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical&hide=html,css,jupyter%20notebook"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mahaamesha&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark&hide=html,css"/>
 </a>
 
 <br>
