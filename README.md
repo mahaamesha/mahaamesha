@@ -14,7 +14,7 @@ Passion:
 - Embedded system
 - Firmware development
 
-Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/avima-haamesha)
+Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedin.com/in/avima-haamesha)
 
 <br>
 <br>
