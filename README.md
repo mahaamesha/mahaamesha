@@ -7,13 +7,14 @@
 <br>
 
 ## Hi there, I’m **Avima** 👋
-Instrumentataion Physics Student at Bandung Institute of Technology
+Bachelor of Physics in Instrumentation and Computational Physics.
 
 Passion: 
+- Computer vision & image processing
 - Embedded system
 - Firmware development
 
-Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/avima-haamesha)
+Want to know more about me? Check out my [LinkedIn profile](https://www.linkedin.com/in/avima-haamesha).
 
 <br>
 <br>
@@ -69,15 +70,11 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 ## 📌 **Pinned Repositories**
 
-<a href="https://github.com/mahaamesha/kuroliProject">
-  <img align="center" style="margin:0.5rem" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=kuroliProject&theme=dark" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&theme=dark&repo=kinematics-analysis-using-digital-image-processing)](https://github.com/mahaamesha/kinematics-analysis-using-digital-image-processing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&theme=dark&repo=image-super-resolution)](https://github.com/mahaamesha/image-super-resolution)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&theme=dark&repo=food-serving-robot)](https://github.com/mahaamesha/food-serving-robot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&theme=dark&repo=iot-aquaculture)](https://github.com/mahaamesha/iot-aquaculture)
 
-<a href="https://github.com/mahaamesha/_RBL-FoodServingRobot">
-  <img align="center" style="margin:0.5rem" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&repo=_RBL-FoodServingRobot&theme=dark" />
-</a>
 
 <br>
 <br>
@@ -85,13 +82,9 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 ## &#x1f4c8; **GitHub Stats**
 
-<a href="https://github.com/mahaamesha">
-  <img align="center" style="margin:0.5rem" alt="mahaamesha's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+![mahaamesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&theme=dark&include_all_commits=true)
 
-  <img align="center" style="margin:0.5rem" alt="mahaamesha's Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mahaamesha&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark&hide=html,css"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaamesha&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook)
 
 <br>
 <br>
