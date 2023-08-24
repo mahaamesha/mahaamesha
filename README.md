@@ -9,7 +9,7 @@
 ## Hi there, I’m **Avima** 👋
 Bachelor of Physics in Instrumentation and Computational Physics.
 
-Passion: 
+Passion:
 - Computer vision & image processing
 - Embedded system
 - Firmware development
@@ -70,7 +70,12 @@ Want to know more about me? Check out my [LinkedIn profile](https://www.linkedin
 
 ## 📌 **Pinned Repositories**
 
+Favorite:
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&theme=dark&repo=kinematics-analysis-using-digital-image-processing)](https://github.com/mahaamesha/kinematics-analysis-using-digital-image-processing)
+
+Preferred:
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&theme=dark&repo=image-super-resolution)](https://github.com/mahaamesha/image-super-resolution)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&theme=dark&repo=body-impedance-measurement)](https://github.com/mahaamesha/body-impedance-measurement)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&theme=dark&repo=iot-aquaculture)](https://github.com/mahaamesha/iot-aquaculture)
@@ -84,7 +89,7 @@ Want to know more about me? Check out my [LinkedIn profile](https://www.linkedin
 
 ## &#x1f4c8; **GitHub Stats**
 
-![mahaamesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&theme=dark&include_all_commits=true)
+![mahaamesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&theme=dark&include_all_commits=true&number_format=long)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaamesha&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook)
 
