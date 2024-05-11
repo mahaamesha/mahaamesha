@@ -55,7 +55,7 @@ Preferred:
 <br> -->
 
 
-### &#x1f4c8; **GitHub Stats**
+## &#x1f4c8; **GitHub Stats**
 
 ![mahaamesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&hide_rank=true&theme=dark&include_all_commits=true&number_format=long)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaamesha&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook)
@@ -65,7 +65,7 @@ Preferred:
 
 
 
-### Selected Projects
+## Selected Projects
 [2024]
 - IoT for Solar Power Plant and Energy Storage System (ESS)
 
