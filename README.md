@@ -77,14 +77,18 @@ Preferred:
 - Size Measurement of Object on A4 Paper
 - Monitoring Quality of Water and Size of Catfish
 
-
 [2022]
 - Body Impedance Measurement
 - Eigenface Recognition
 - Food Serving Robot
 - Single App Website: Restorante de Confusion
 
+[2021]
+- Soap Products Analysis
+- Covid-19 Air Cleaner Mobile App (PKM-KC)
+
 [2020]
+- Temperature Controlled Cooling Fan
 - Game: Cross to The End!
 - Game: Sims Funboy with CLI Interaction
 - Scientific & Polinomial Derivative Calculator
