@@ -7,12 +7,13 @@
 <br>
 
 ## Hi there, I’m **Avima** 👋
-Bachelor of Physics in Instrumentation and Computational Physics.
+Electrical & smart instrumentation enthusiast with a passion for developing instrumentation 
+systems leveraging AI + IoT for business solutions. I'm always looking to collaborate and learn from others in the tech community.
 
-Passion:
-- Computer vision & image processing
+Interest:
 - Embedded system
-- Firmware development
+- Computer vision & image processing
+- Server management for IoT service
 
 Want to know more about me? Check out my [LinkedIn profile](https://www.linkedin.com/in/avima-haamesha).
 
@@ -20,57 +21,24 @@ Want to know more about me? Check out my [LinkedIn profile](https://www.linkedin
 <br>
 
 
-## 💼 **Skills**
+<!-- ## Skills 👋
 
-**Language**:<br>
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=4AB197) 
+- **Electronics**: circuit (Proteus), PCB (Eagle), solar power plant (PvSyst)
+- **Embedded systems**: microcontrollers (ESP, Arduino, Raspberry Pi), sensors, actuators
+- **Communication**: serial (UART, SPI, I2C), wireless (Wi-Fi, BLE), protocols (MQTT, HTTP, LoRaWAN)
+- **Language**: C/C++, Python, Matlab, SQL
+- **Tools**: VS Code, PlatformIO, Git, Docker
+- **OS**: Windows, Linux
+- **Platform**: influx (TICK stack), MongoDB
+- **GUI**: PySide6, React
+- **AI**: computer vision (OpenCV), machine learning (Tensorflow, Keras, Scipy, Scikit-learn, PyTorch)
 
-**Modules**: <br>
-![](https://img.shields.io/badge/Module-Arduino-informational?style=for-the-badge&logo=arduino&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Module-Raspberry_Pi-informational?style=for-the-badge&logo=raspberrypi&logoColor=white&color=4AB197) 
-
-**Tools**: <br>
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=4AB197) 
-
-![](https://img.shields.io/badge/Tools-Proteus-informational?style=for-the-badge&logo=proteus&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-EAGLE-informational?style=for-the-badge&logo=eagle&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Tools-Keil_uVision-informational?style=for-the-badge&logo=uvision&logoColor=white&color=4AB197) 
-
-**Others**: <br>
-![](https://img.shields.io/badge/MQTT-informational?style=for-the-badge&logo=mqtt&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Mosquitto-informational?style=for-the-badge&logo=paho&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/Nodered-informational?style=for-the-badge&logo=nodered&logoColor=white&color=4AB197) 
 
 <br>
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-**Web Development**: <br>
-![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JS-informational?style=for-the-badge&logo=javascript&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
-<br>
+<br> -->
 
 
-## 📌 **Pinned Repositories**
-
-Favorite:
+<!-- ### 📌 **Pinned Repositories**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahaamesha&theme=dark&repo=kinematics-analysis-using-digital-image-processing)](https://github.com/mahaamesha/kinematics-analysis-using-digital-image-processing)
 
@@ -84,14 +52,47 @@ Preferred:
 
 
 <br>
+<br> -->
+
+
+### &#x1f4c8; **GitHub Stats**
+
+![mahaamesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&hide_rank=true&theme=dark&include_all_commits=true&number_format=long)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaamesha&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook)
+
+<br>
 <br>
 
 
-## &#x1f4c8; **GitHub Stats**
 
-![mahaamesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahaamesha&show_icons=true&theme=dark&include_all_commits=true&number_format=long)
+### Selected Projects
+[2024]
+- IoT for Solar Power Plant and Energy Storage System (ESS)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaamesha&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook)
+[2023]
+- Image Super Resolution, High Resolution GANs
+- Pine Resin Color Analysis with Histogram Matching Approach
+- Kinematics Analysis using Digital Image Processing (+ Desktop App)
+- Microscopic Image Analysis of Skin Surface on Soap Use
+- Size Measurement of Object on A4 Paper
+- Monitoring Quality of Water and Size of Catfish
+
+
+[2022]
+- Body Impedance Measurement
+- Eigenface Recognition
+- Food Serving Robot
+- Single App Website: Restorante de Confusion
+
+[2020]
+- Game: Cross to The End!
+- Game: Sims Funboy with CLI Interaction
+- Scientific & Polinomial Derivative Calculator
+
+[2019]
+- Todo App
+- Polling App
+- Simple Calculator
 
 <br>
 <br>
